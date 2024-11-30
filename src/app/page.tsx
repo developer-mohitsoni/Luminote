@@ -5,7 +5,7 @@ export default function Home() {
     <div>
       Hello Nextjs
       <br />
-      <Button variant={"journal"}>Button</Button>
+      <Button>Button</Button>
     </div>
   );
 }
